@@ -1,0 +1,8 @@
+How to use:
+1. Press "Tools/Groupify/Create groupify".
+2. Click on "Open groupify window" button.
+3. To create group you should select objects
+   and press "Ctrl + G" or drag them onto 
+   corresponding area.
+4. To add objects to existing group simply
+   drag them onto group.
